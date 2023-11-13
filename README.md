@@ -1,6 +1,6 @@
 # widgets_practice
 
-A new Flutter project.
+This is sample Flutter project that demonstrates two texts using Stateless Widget and increment and decrement functions using statefull widget. I used elevatedButton for increment and decrementtion buttons.
 
 ## Getting Started
 
